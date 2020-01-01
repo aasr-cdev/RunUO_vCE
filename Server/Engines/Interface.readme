@@ -1,0 +1,45 @@
+﻿################################### - Interface.cs - ##################################
+=======================================================================================
+///////////////////////////////////////////////////////// - File Development Notation -
+***************************************************************************************
+Interface.txt = Interface.cs_backup
+
+=======================================================================================
+///////////////////////////////////////////////////////// - File Modification Changes -
+***************************************************************************************
+> [01/01/2020]_• Initial Commit
+
+=======================================================================================
+///////////////////////////////////////////////////////// - RunUO Program Information -
+***************************************************************************************
+Project Started: May 1st, 2002
+Legal Copyright: © RunUO Software Team
+
+RunUO Software Team Developers: > Andre Sayre (RunUO Developer)
+								> Bryan "Zippy" Pass (RunUO Developer)
+								> Eos (RunUO Developer)
+								> Mark Sturgill (RunUO Lead Developer)
+								> Nick "Zaroff" McCormack (RunUO Web Developer)
+								> Ryan McAdams (Founder, Project Manager)
+								> Tracey aka: "Athena" (RunUO Developer)
+								> Xavier (RunUO Developer)
+								> Zac "Krrios" Torkelson (Founder, RunUO Architect)
+
+RunUO Repository Team Curators: > Mark Sturgill (RunUO Lead Developer)
+								> Vorspire (RunUO And ServUO Developer)
+
+=======================================================================================
+///////////////////////////////////////////////////////// - RunUO License Information -
+***************************************************************************************
+This program is free software; you can redistribute it and/or modify it under the terms 
+of the GNU General Public License as published by the Free Software Foundation; either 
+version 2 of the License, or (at your option) any later version.
+
+=======================================================================================
+///////////////////////////////////////////////////////// - RunUO Development Status -
+***************************************************************************************
+Currently there are no plans to develop this server emulation software any further:
+
+RunUO, the RunUO.com website, and their Ultima Online™ server emulation software have 
+depreciated. This means that if you choose to use this server emulation software, then
+you do so at your own risk and assume all responsibility for it.
