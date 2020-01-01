@@ -15,7 +15,7 @@ An Ultima Online™ Server Emulator: Community Edition
 > formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of the official release available.
 
 3. RunUO_vCE
-> formally known as *RunUO_v2.7*, this project was built upon the release of RunUO_v2.3r987, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
+> formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
 
 ## Which One To Use?
 > It depends on what type of Ultima Online™ Server you are trying to create: *RunUO_v1.x* compatibility extends to the following expansions: The Second Age, Renaissance, Third Dawn, Lord Blackthorn's Revenge, Age of Shadows, and the Samurai Empire.
