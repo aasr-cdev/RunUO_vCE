@@ -8,12 +8,17 @@ An Ultima Online™ Server Emulator: Community Edition
 1. RunUO_v1.x
 > formally known as *RunUO_v1.0 Final*, this project was the last official release of RunUO_v1.x, and is currently the most stable revision of the offical release available.
 
+> Expansions: *The Second Age, Renaissance, Third Dawn, Lord Blackthorn's Revenge, Age of Shadows, and Samurai Empire*
+
 2. RunUO_v2.x
 > formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of the official release available.
 
-3. RunUO_vCE
-> formally known as *RunUO_v2.7*, this project was built upon the release of RunUO_v2.3r987. and has been modified as a community project. This release has been fully updated to be compatible with the Ultima Online™ Mondain's Legacy expansion.
+> Expansions: *Mondain's Legacy*
 
+3. RunUO_vCE
+> formally known as *RunUO_v2.7*, this project was built upon the release of RunUO_v2.3r987, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
+
+> Expansions: *Mondain's Legacy, Stygian Abyss, High Seas*
 
 
 
