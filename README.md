@@ -17,5 +17,5 @@ An Ultima Online™ Server Emulator: Community Edition
 3. RunUO_vCE
 > formally known as *RunUO_v2.7*, this project was built upon the release of RunUO_v2.3r987, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
 
-## Why No Microsoft Visual Studio Solution and Project Files?
-> I have refrained from adding the Microsoft Visual Studio project and solution files to the repositories because I really did not want to confuse anyone with the way they are set up. If you would like the Microsoft Visual Studio source that corresponds to this repository, then you can email me and request it: aasr-cdev@protonmail.com
+## Which One To Use?
+
