@@ -6,3 +6,4 @@ An Ultima Online™ Server Emulator: Community Edition
 
 ## Why No Microsoft Visual Studio Solution and Project Files?
 > I have refrained from adding the entire Microsoft Visual Studio source to the repositories because I didn't want to confuse people with the way they are set up. If you would like the Microsoft Visual Studio source that corresponds to this repository, then you can email me and request it: aasr-cdev@protonmail.com
+sdf
