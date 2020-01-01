@@ -1,4 +1,4 @@
-# RunUO_vCE
+# RunUO_vCE<img align="right" width="100" height="100" src="https://i.postimg.cc/fR3MNJWs/gameico-0005.png/100/100">
 An Ultima Online™ Server Emulator: Community Edition
 
 ## Project Background
