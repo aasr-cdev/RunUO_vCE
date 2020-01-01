@@ -5,7 +5,7 @@ An Ultima Online™ Server Emulator: Community Edition
 > This repository aims to add uniformity within the source code and directory structure between all major releases of the RunUO Ultima Online™ Server Emulator as well as any relevant forks of the project which may become popular.
 
 ## Project Motivations
-> This project hit a lot of nerves with people; stating that it was a waste of time and nobody would benefit from it. The truth is that you will not find a better cross-referencing platform from which you can clearly see the evolution of code changes between the Ultima Online™ Server Emulator releases. What this does is ultimately make converting source code and third-party scripts from one emulation server version to another a lot less tedious and time consuming of a job than it had previously been.
+> This project hit a lot of nerves with people; stating that it was a waste of time and nobody would benefit from it. The truth is that you will not find a better cross-referencing platform from which you can clearly see the evolution of code changes between the RunUO Ultima Online™ Server Emulator releases. What this does is ultimately make converting source code and third-party scripts from one emulation server version to another a lot less tedious and time consuming of a job than it had previously been; when it's all said and done, this project was far from a waste of time.
 
 ## Emulator Revisions
 1. RunUO_v1.x
