@@ -15,7 +15,7 @@ An Ultima Online™ Server Emulator: Community Edition
 > formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of *RunUO_v2.0* available.
 
 3. RunUO_vCE
-> formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987 as its foundation, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
+> formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987 as its foundation, and has been modified by RunUO community developers; this is the most stable rendition of the official RunUO emulator.
 
 4. ServUO_pub
 > formally known as *RunUO_v2.6*, this project was forked and overhauled to be compatible with the latest that Ultima Online™ has to offer. With ServUO_pub you can enjoy using the newest game client with the latest expansion.
