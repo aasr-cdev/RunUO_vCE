@@ -25,5 +25,5 @@ An Ultima Online™ Server Emulator: Community Edition
 
 >If your aim is to stick with emulating the original game, then you will want to use an emulator that is compatible with the client version and game expansion that you will be trying to recreate. However if you are like me and want to use an emulator and the Ultima Online™ game as a foundation to create a spin-off, then it really does not matter which emulator release you use; it is a matter of preference.
 
-> With these repositories, the Ultima Online™ game, and determination you can recreate and customize just about any role-playing game (RPG) and massively multiplayer online role-playing game (MMORPG) on the market!
+> With these repositories, the Ultima Online™ game, and determination you can recreate and customize just about any role-playing game (RPG) and massively multiplayer online role-playing game (MMORPG) on the market! 
 
