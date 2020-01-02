@@ -9,10 +9,10 @@ An Ultima Online™ Server Emulator: Community Edition
 
 ## Emulators Included
 1. RunUO_v1.x
-> formally known as *RunUO_v1.0 Final*, this project was the last official release of RunUO_v1.x, and is currently the most stable revision of the offical release available created by the RunUO Software Team.
+> formally known as *RunUO_v1.0 Final*, this project was the last official release of RunUO_v1.x, and is currently the most stable revision of *RunUO_v1.0* available.
 
 2. RunUO_v2.x
-> formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of the official release available.
+> formally known as *RunUO_v2.3r987*, this project was the last official release of RunUO_v2.x, and is currently the most stable revision of *RunUO_v2.0* available.
 
 3. RunUO_vCE
 > formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987 as its foundation, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
