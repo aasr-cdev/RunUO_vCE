@@ -1,9 +1,6 @@
-# A uoAvocation Re-Release<img align="left" width="100" height="100" src="https://i.postimg.cc/4dw0nRXG/gameico-0005b.png/100/100">
+-> # A uoAvocation Re-Release <img align="left" width="100" height="100" src="https://i.postimg.cc/4dw0nRXG/gameico-0005b.png/100/100">
 An Ultima Online™ Server Emulator: Community Edition
 
-
-# RunUO_vCE<img align="right" width="100" height="100" src="https://i.postimg.cc/fR3MNJWs/gameico-0005.png/100/100">
-An Ultima Online™ Server Emulator: Community Edition
 
 ## Project Information
 > This repository aims to add uniformity within the source code and directory structure between all major releases of the RunUO Ultima Online™ Server Emulator as well as any relevant forks of the project which may become popular.
