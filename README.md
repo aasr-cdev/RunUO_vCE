@@ -18,7 +18,7 @@ An Ultima Online™ Server Emulator: Community Edition
 > formally known as *RunUO_v2.7*, this project was built using the release of RunUO_v2.3r987 as its foundation, and has been modified by RunUO community developers; this is currently the most stable revision of the RunUO emulator.
 
 4. ServUO_pub
-> formally known as *RunUO_v2.6*, this project was forked and massively overhauled to be compatible with the latest that Ultima Online™ has to offer. With ServUO_pub you can enjoy using the newest game client with the latest expansion.
+> formally known as *RunUO_v2.6*, this project was forked and overhauled to be compatible with the latest that Ultima Online™ has to offer. With ServUO_pub you can enjoy using the newest game client with the latest expansion.
 
 ## Which One To Use?
 > It depends on what type of Ultima Online™ Server you are trying to create. If you want to remake any expansion between *The Second Age* and *Samurai Empire*, then I would suggest you use *RunUO_v1.x* because the packets will be on par with the older game clients that you will need to use in order to play those eras accurately. If you want to remake *Mondain's Legacy* then you will want to use *RunUO_v2.x*, because this release has been updated to work with that expansion. However if you want to remake any expansion from *Kingdom Reborn* to *High Seas*, then you will want to use *RunUO_vCE*, as it has been updated to be compatible with those Ultima Online™ releases.
