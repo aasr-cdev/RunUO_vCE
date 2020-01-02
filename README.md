@@ -19,4 +19,3 @@ An Ultima Online™ Server Emulator: Community Edition
 
 4. ServUO_pub
 > formally known as *RunUO_v2.6*, this project was forked and overhauled to be compatible with the latest that Ultima Online™ has to offer. With ServUO_pub you can enjoy using the newest game client with the latest expansion.
-
